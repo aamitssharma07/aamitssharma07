@@ -1,14 +1,14 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)](https://aamitssharma07.io)
+[![MasterHead](https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif)](https://aamitssharma07.io)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
-- 🔭 I’m currently working on **Telon Migration**
+- 🔭 I’m currently working on **ABN Amro Telon Migration**
 
 - 🌱 I’m currently learning **react JS, Mongo DB** 
 
-- 💬 Ask me about **SQL, C, DBMS, JavaScript,  Data Structure and Algorithm **
+- 💬 Ask me about **SQL, C, DBMS, JavaScript,  Data Structure and Algorithm** 
 
 - 📫 How to reach me **aamitssharma07@gmail.com**
 
