@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
-- 🔭 I’m currently working on **ABN Amro Telon Migration**
+- 🔭 I’m currently doing MS at  **Texas A&M University**
 
-- 🌱 I’m currently learning **react JS, Mongo DB** 
+- 🌱 I’m currently learning **Django, Machine Learning** 
 
-- 💬 Ask me about **SQL, C, DBMS, JavaScript,  Data Structure and Algorithm** 
+- 💬 Ask me about **Python, C, SQL, JavaScript, DBMS, Data Structure and Algorithm** 
 
-- 📫 How to reach me **aamitssharma07@gmail.com**
+- 📫 How to reach me **akumar3@islander.tamucc.edu**
 
 - ⚡ Fun fact **I am funny**
 
