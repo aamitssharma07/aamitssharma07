@@ -1,12 +1,12 @@
 [![MasterHead](https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif)](https://aamitssharma07.io)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Full-Stack developer delving into the world of Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
 - 🔭 I’m currently doing MS in CS at **Texas A&M University**
 
-- 🌱 I’m currently learning **Django, Machine Learning** 
+- 🌱 I’m currently learning **Machine Learning, Computer Visison** 
 
 - 💬 Ask me about **Python, C, SQL, JavaScript, DBMS, Data Structure and Algorithm** 
 
