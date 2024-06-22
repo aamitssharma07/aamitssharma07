@@ -1,8 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;">
-    <iframe src="https://giphy.com/embed/dtjx21QRZ2nrgYz3iA" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/KraterAI-ai-artificial-intelligence-dtjx21QRZ2nrgYz3iA">via GIPHY</a></p>
-
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A Passionate Data Scientist delving into the world of LLM's</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
