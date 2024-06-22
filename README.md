@@ -1,6 +1,6 @@
 [![MasterHead](https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif)](https://aamitssharma07.io)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A Passionate Full-Stack developer delving into the world of Machine Learning</h3>
+<h3 align="center">A Passionate Data Scientist delving into the world of LLM's</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
