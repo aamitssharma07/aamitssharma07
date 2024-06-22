@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, C, SQL, Machine Learning, Deep Learning, Data Structure and Algorithm** 
 
-- 📫 How to reach me **akumar3@islander.tamucc.edu**
+- 📫 How to reach me **aamitssharma0007@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
