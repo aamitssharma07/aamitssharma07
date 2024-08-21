@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
 - 🔭 I’m currently doing MS in CS at **Texas A&M University**
+- 
 
 - 🌱 I’m currently working as a **Graduate Research Assistant** and doing research in **Machine Learning** 
 
 - 💬 Ask me about **Python, C, SQL, Machine Learning, Deep Learning, Data Structure and Algorithm, LLM's** 
 
-- 📫 How to reach me **aamitssharma0007@gmail.com**
+- 📫 How to reach me **hireamit007@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
