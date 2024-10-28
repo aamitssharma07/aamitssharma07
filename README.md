@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, C, SQL, Machine Learning, Deep Learning, Data Structure and Algorithm, LLM's** 
 
-- 📫 How to reach me **amit.dev07@gmail.com**
+- 📫 How to reach me **aamit.dev07@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
