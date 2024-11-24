@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A Passionate Data Scientist delving into the world of LLM's</h3>
+<h3 align="center">A Passionate Data Scientist delving into the world of Generative AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
 - 🔭 I’m currently doing MS in CS at **Texas A&M University**
-- 
 
 - 🌱 I’m currently working as a **Graduate Research Assistant** and doing research in **Machine Learning** 
 
