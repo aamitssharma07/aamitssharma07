@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitssharma07&label=Profile%20views&color=0e75b6&style=flat" alt="aamitssharma07" /> </p>
 
-- 🔭 I’m currently doing MS in CS at **Texas A&M University**
+- 🔭 I’m currently doing PhD in CS at **Texas A&M University**
 
 - 🌱 I’m currently working as a **Graduate Research Assistant** and doing research in **Machine Learning** 
 
